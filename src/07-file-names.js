@@ -14,7 +14,7 @@
  *
  */
 function renameFiles(names) {
-  return names;
 }
+
 
 module.exports = renameFiles;
